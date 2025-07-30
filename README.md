@@ -139,28 +139,6 @@ cp BarcodeScanner/Info.plist.example BarcodeScanner/Info.plist
 
 ⚠️ **Security Note**: Your `Info.plist` file is gitignored to protect your API key from being committed.
 
-## 🎬 Demo Video
-
-[Watch our 5-minute presentation](your-demo-video-link)
-
-**What we cover:**
-- The emotional cost of everyday objects  
-- How we hacked consumer psychology with AI
-- What Scanxiety reveals about surveillance capitalism
-- Live demo of emotional receipt generation
-
-## 👥 Created By
-
-- **Twyla** - Concept Development & Critical Framework
-- **Kshaunish** - iOS Development & AI Integration  
-- **Naomi** - UX Design & Poetic Content Strategy
-
-## 🔗 Links
-
-- **Live Project**: [Scanxiety on HOTGLUE.ME](your-hotglue-link)
-- **Demo Video**: [5-Minute Presentation](your-video-link)
-- **Documentation**: [Process Documentation](your-docs-link)
-
 ## 💭 Critical Statement
 
 *"Sometimes a purchase says more than just $2.99 — it says, 'You're trying to fill a void.'"*
