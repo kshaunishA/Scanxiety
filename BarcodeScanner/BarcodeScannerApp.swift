@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
-struct BarcodeScannerApp: App {
+struct ScanxietyApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
+        .defaultSize(width: 400, height: 700)
     }
 }
